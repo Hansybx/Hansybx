@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hansybx "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hansybx "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **Hansybx/Hansybx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
