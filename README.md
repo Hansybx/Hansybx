@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ I'm Hansybx
+ Beginners on the road of programming.
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hansybx "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
